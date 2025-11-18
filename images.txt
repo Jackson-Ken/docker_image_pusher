@@ -6,8 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:alpine
 
-infiniflow/ragflow:v0.22.0
-infiniflow/infinity:v0.6.5
+infiniflow/ragflow:v0.21.0
+#infiniflow/infinity:v0.6.5
 
 #elasticsearch:8.11.3
 #mysql:8.0.39
