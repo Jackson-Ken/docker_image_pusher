@@ -8,7 +8,8 @@
 
 #infiniflow/ragflow:v0.21.0
 #infiniflow/infinity:v0.6.5
-zstar1003/ragflow-plus
+#zstar1003/ragflow-plus
+Jackson-Ken/ragflow-plus
 
 #elasticsearch:8.11.3
 #mysql:8.0.39
